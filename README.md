@@ -25,10 +25,6 @@ My contributions included:
 
 A mobile application I worked on for amateur-football teams and players. Development work covers authentication, team and player profiles, match-related flows, and notifications using **Flutter, Firebase, and Cloud Functions**.
 
-### [Shopping List](https://github.com/DogacErguvenc/Shopping-List)
-
-A small **HTML, CSS, and JavaScript** project with editable shopping items, completion filters, and browser storage. Its README includes English and Turkish usage instructions.
-
 ## Technical focus
 
 **Python · FastAPI · PyTorch · OpenCV · MongoDB · React · JavaScript · Tailwind CSS · Flutter · Firebase · Git**

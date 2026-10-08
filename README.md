@@ -21,9 +21,17 @@ My contributions included:
 
 [Read the project case study](https://github.com/DogacErguvenc/retail-product-verification-case-study)
 
+### Konak — Next.js / TypeScript / Supabase
+
+A digital guest-guide project with a host dashboard, draft/published content, tenant-scoped SQL functions, revision checks, and shareable guide links and QR cards. It supports a local demo and a Supabase-backed cloud repository.
+
+[Explore the source and local demo setup](https://github.com/DogacErguvenc/konak-misafir-rehberi)
+
 ### Santra — Flutter / Firebase
 
 A mobile application I worked on for amateur-football teams and players. Development work covers authentication, team and player profiles, match-related flows, and notifications using **Flutter, Firebase, and Cloud Functions**.
+
+[Explore the source and setup guide](https://github.com/DogacErguvenc/Santra-App)
 
 ## Technical focus
 

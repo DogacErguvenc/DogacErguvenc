@@ -1,5 +1,7 @@
 # Haluk Doğaç Ergüvenç
 
+English · [Türkçe özet](#türkçe-özet)
+
 **Software Engineer · Python, AI Applications & Full-Stack Development**
 
 I'm a 2025 graduate of an English-taught Computer Engineering program, based in İstanbul, Türkiye. I have approximately 10 months of practical software engineering experience at Denker, where I independently handled AI development for a camera-based product verification system.
@@ -38,6 +40,16 @@ A mobile application I worked on for amateur-football teams and players. Develop
 **Python · FastAPI · PyTorch · OpenCV · MongoDB · React · JavaScript · Tailwind CSS · Flutter · Firebase · Git**
 
 I enjoy connecting models with usable software and learning how to make those systems reliable in practice.
+
+## Türkçe özet
+
+2025 yılında İngilizce Bilgisayar Mühendisliği programından mezun oldum. Denker'de yaklaşık 10 ay yazılım geliştirme deneyimi edindim; kamera ile ürün doğrulama sisteminin yapay zekâ geliştirmesini tek başıma yürüttüm.
+
+**Junior Python backend, yapay zekâ uygulamaları ve full-stack yazılım geliştirme** rollerine başvuruyorum. İstanbul'da ofis veya hibrit; Türkiye'den çalışmaya uygun, tamamen uzaktan rollere açığım.
+
+- **Terazi ürün doğrulama:** PyTorch/ResNet18, FastAPI, React, MongoDB ve OpenCV; mağaza pilotunda test edilen çalışma. Ayrıntılı proje anlatımı yukarıda.
+- **Konak:** Next.js, TypeScript ve Supabase/SQL ile dijital misafir rehberi; taslak/yayın ayrımı ve QR paylaşımı.
+- **Santra:** Flutter/Firebase ile amatör futbol takımları ve oyuncular için üyelik, takım, maç ve bildirim akışları.
 
 ## Contact
 
